@@ -1,0 +1,341 @@
+html, body {
+
+   
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+.main-menu {
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+picture .header-logo {
+    padding: 22px 60px;
+    height: 30px;
+    width: 49px;
+}
+
+.main-menu a {
+    float: right;
+    display: block;
+    color: rgb(8, 8, 8);
+    text-align: center;
+    padding: 24px 50px;
+    text-decoration: none;
+}
+
+                .main-content {
+                    margin-top: 150px;
+                    margin-left: 60px;
+                
+
+                }
+
+                .main-content h2 {
+                font-size: 50px;
+                font-weight: 900;
+                max-width: 570px;
+                }
+
+
+                .main-content p {
+                max-width: 680px;
+                font-weight: 100;
+                font-size: 15px;
+
+                }
+                
+
+                .button-send1 {
+                    width: 143px; 
+                    height: 42px;
+                    background-color: yellow;
+                    border: none;
+                    padding: 1px 6px 8px 6px;
+                    margin-top: 25px;
+                    font-size: small;
+                }
+
+                .main-content  .video-item1 {
+                    
+                    height: 100%;
+                    width: 500px;
+                    display: block;
+                    float: right;                   
+                    margin-top: -410px;
+                    padding-right: 35px;
+                }
+
+
+.background-signs {
+    display: inline-block;
+    word-spacing: 35px;
+    margin-top: 150px;
+    margin-left: 0px;
+  
+    
+    
+}
+
+.background-signs .sign1 {
+    width: 150px;
+    height: 80px;
+ 
+    
+}
+
+.background-signs .sign2 {
+    width: 130px;
+    height: 80px;
+    padding-left: 50px;
+}
+
+.background-signs .sign3 {
+    width: 130px;
+    height: 80px;
+    padding-left: 50px;
+    
+}
+
+.background-signs .sign4 {
+    width: 110px;
+    height: 80px;
+    padding-left: 50px;
+    
+}
+
+
+.background-signs .sign5 {
+    width: 150px;
+    height: 80px;
+    padding-left: 50px;
+    
+}
+
+.background-signs .sign6 {
+    width: 120px;
+    height: 80px;
+    padding-left: 50px;
+    
+}
+
+        .blog-section {
+                margin-top: 200px;
+                margin-left: 0px;
+            
+        }
+            
+            
+            .blog-section h2 {
+                text-transform: uppercase;
+                font-size: 40px;
+            }
+            
+            .blog-section p {
+                padding-top: 20px;
+            }
+            
+
+
+
+            .blog .video{
+                    display: inline-block;
+                    word-spacing: 100px;
+                    margin-top: 40px;
+                
+                
+                }
+            .video iframe {
+                height: 250px;
+                width: 350px;
+                padding-right: 70px;
+               
+                
+            }
+
+           .info {
+               display: inline-block;
+               margin-top: -25px;
+               
+           }
+           .info-section1 {
+               width: 335px;
+               font-size: 30px;
+               display: inline-block;
+               vertical-align:top;
+               margin-right: 75px;
+           }
+           .info-section1 h2{
+            width: 335px;
+            text-transform: capitalize;
+           
+            
+        }
+        .info-section1 p{
+           padding-bottom: 43px;
+           
+            
+        }
+
+        .info-section2 {
+            width: 335px;
+            font-size: 30px;
+            display: inline-block;
+            margin-right: 90px;
+        }
+        .info-section2 h2{
+         width: 335px;
+         text-transform: capitalize;
+         
+     }
+
+     .info-section3 {
+        width: 335px;
+        font-size: 30px;
+        display: inline-block;
+        margin-right: 0px;
+    }
+    .info-section3 h2{
+     width: 335px;
+     text-transform: capitalize;
+     
+ }
+
+
+
+
+
+
+
+.contact-us  {
+
+    margin-top: 181px;
+    margin-left: 36%;
+    margin-right: 46px;  
+}
+.contact-us h2 {
+    text-transform: uppercase;
+    font-size: 40px;
+    font-weight: 900;
+}
+
+.contact-us h3 {
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 900;
+}
+
+
+.contact-form input{
+border: none;
+background-color: rgb(252, 250, 250);
+border-radius: 10px;
+}
+
+.button-send2 button{
+    width: 143px; 
+    height: 42px;
+    background-color: yellow;
+    border: none;
+    padding: 1px 6px 8px 6px;
+    margin-top: 20px;
+}
+            
+.connection-img {
+    text-align: center;
+    margin-top: 100px;
+    margin-left: 100px;
+    word-spacing: 200px;
+}
+
+
+.connection-text {
+    text-align: center;
+    margin-left: 75px;
+  
+}
+
+.address-text1 {
+    margin-top: 17px;
+    margin-left: 20px;
+    padding-right: 455px;
+}
+.address-text2 {
+    margin-top: 17px;
+    margin-left: 20px;
+    padding-right: 455px;
+}
+
+.phone-number1 {
+margin-top: -80px;
+}
+.phone-number2 {
+    margin-top: 5px;
+}
+
+.email-text {
+    float: right;
+    margin-right: 285px;
+    margin-top: -93px;
+    margin-bottom: 0px;
+}
+
+                .icons {
+                padding: 10px;
+                    display: inline-block;
+                    width: 100%;
+                    text-align: center;
+                    word-spacing: 100px;
+                }
+
+                .icon1  {
+                height: 40px;
+                    width: 40px;
+                }
+                .icon2  {
+                    height: 40px;
+                    width: 40px;
+                }
+                    
+
+                .icon3  {
+                
+                    height: 40px;
+                    width: 40px;
+                }
+    .footer {
+        width: 99%;
+        height: 90px;
+        background-color: black;
+        margin-left: -8px;
+        
+    }
+    
+    .footer-image {
+    
+        float: left;
+        padding-left: 52px;
+        padding-top: 24px;
+        width: 65px;
+        height: 37px;
+        }
+        .right-image {
+        width: 118px;
+        height: 8px;
+        margin-top: 42px;
+        margin-left: 15px;
+        }
+
+        .back-to-top a{
+            color: rgb(255, 255, 255);
+            text-transform: uppercase;
+            text-decoration: none;
+            float: right;
+           font-size: 10px;
+            margin-right: 98px;
+            margin-top: -31px;
+        }
+        
+
